@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1616456189 source:c:\users\julia\desktop\111\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstdio>
+	"graph.h"
+
+1616455277 c:\users\julia\desktop\111\include\graph.h
+	<graphics.h>
+	"graph.h"
+
+1616456001 source:c:\users\julia\desktop\111\src\graph.cpp
+	"graph.h"
+	<graphics.h>
+	<math.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	<cstdio>
+
+1616456189 source:c:\users\julia\desktop\конец\111\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstdio>
+	"graph.h"
+
+1616455277 c:\users\julia\desktop\конец\111\include\graph.h
+	<graphics.h>
+	"graph.h"
+
